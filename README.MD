@@ -30,5 +30,5 @@ A. C++ <br>
 B. Backend framework 
 
 V. Conclusion <br>
-A. Recap of objective and gameplay
+A. Recap of objective and gameplay <br>
 B. Potential for future updates and expansion.
