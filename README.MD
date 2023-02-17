@@ -26,9 +26,9 @@ A. Embed images, videos, and sound effects to enhance the story
 A. Publish and share stories with others 
 
 IV. Technology <br>
-A. C++ <br>
-B. Backend framework 
+1. C++ <br>
+2. Backend framework 
 
 V. Conclusion <br>
-A. Recap of objective and gameplay <br>
-B. Potential for future updates and expansion.
+1. Recap of objective and gameplay <br>
+2. Potential for future updates and expansion.
