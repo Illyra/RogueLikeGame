@@ -3,31 +3,31 @@ A. Setting: post-apocalyptic world filled with dangerous mutated creatures and o
 B. Objective: control a team of survivors trying to reach a rumored safe haven <br>
 
 II. Gameplay <br>
-A. Procedural generation
-1. Randomly generated world
-2. Different challenges and scenarios each playthrough <br>
-B. Resource scavenging
-1. Collect resources to survive
-2. Upgrade weapons and tools <br>
-C. Crafting
-1. Create weapons and tools to defend against creatures and raiders <br>
-D. Strategic decision making
-1. Make decisions to keep the team alive <br>
-E. Permanent death
-1. Death is permanent, forcing players to restart with a new team <br>
+1. Procedural generation
+A. Randomly generated world
+B. Different challenges and scenarios each playthrough <br>
+2. Resource scavenging
+A. Collect resources to survive
+B. Upgrade weapons and tools <br>
+3. Crafting
+A. Create weapons and tools to defend against creatures and raiders <br>
+4. Strategic decision making
+A. Make decisions to keep the team alive <br>
+5. Permanent death
+A. Death is permanent, forcing players to restart with a new team <br>
 
 III. Features <br>
-A. Team management
-1. Control a team of survivors
-2. Assign tasks and make decisions as a team <br>
-B. Multimedia elements
-1. Embed images, videos, and sound effects to enhance the story <br>
-C. Sharing 
-1. Publish and share stories with others 
+1. Team management
+A. Control a team of survivors
+B. Assign tasks and make decisions as a team <br>
+2. Multimedia elements
+A. Embed images, videos, and sound effects to enhance the story <br>
+3. Sharing 
+A. Publish and share stories with others 
 
 IV. Technology <br>
-A. HTML, CSS, JavaScript
-B. Backend framework (e.g. Django or Ruby on Rails)
+A. C++
+B. Backend framework 
 
 V. Conclusion <br>
 A. Recap of objective and gameplay
