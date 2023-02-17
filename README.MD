@@ -1,6 +1,6 @@
-I. Introduction
-A. Setting: post-apocalyptic world filled with dangerous mutated creatures and other players acting as raiders
-B. Objective: control a team of survivors trying to reach a rumored safe haven
+I. Introduction <br>
+A. Setting: post-apocalyptic world filled with dangerous mutated creatures and other players acting as raiders <br>
+B. Objective: control a team of survivors trying to reach a rumored safe haven <br>
 
 II. Gameplay
 A. Procedural generation
